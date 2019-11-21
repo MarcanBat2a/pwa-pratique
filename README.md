@@ -40,3 +40,4 @@ On execute ``npm run jsonserver`` dans un nouveau terminal
 
 5. Copier - Coller le main.js pour récuéperer les datas directement via l'api
 Visualiser les requêtes dans network de la console
+
